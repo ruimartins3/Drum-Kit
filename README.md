@@ -11,5 +11,4 @@ https://user-images.githubusercontent.com/91401714/184875978-4c8a6ddb-083f-4452-
 
 
 <p>Press any key you see on the screen to make a sound.<p/>
-<p>It's better optimized for PC usage as in mobile it tends to lagg a little bit.</p>
 
